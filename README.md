@@ -1,9 +1,8 @@
 # cathay-tqa
 
-# env
+# install
 ```
-    1. 為了方便安裝及使用，建立虛擬環境
-        >> source ./cathay-tqa_env/bin/activate 
+    >> pip3 install -r requirements.txt  
 ```
 
 # run
